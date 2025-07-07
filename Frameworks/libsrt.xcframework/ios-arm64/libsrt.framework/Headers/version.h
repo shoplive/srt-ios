@@ -1,0 +1,7 @@
+#ifndef SRT_VERSION_H
+#define SRT_VERSION_H
+#define SRT_VERSION_MAJOR 1
+#define SRT_VERSION_MINOR 5
+#define SRT_VERSION_PATCH 0
+#define SRT_VERSION_STRING "1.5.0"
+#endif
